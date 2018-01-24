@@ -1,0 +1,32 @@
+{
+    "AX":{
+        "center_dac":5.8798054948,
+        "center_signal":7.8620664081,
+        "high_dac":5.8870800439,
+        "high_signal":5.8468802874,
+        "low_dac":5.8725309457,
+        "low_signal":5.7955341476,
+        "points":"QLur\/jyCb\/dAu7R4PLUAU0C7vPG9QUfTQLvFaz3KVslAu83kPtFgtkC71l4\/oVI\/QLve10A59LBAu+dRQJBxdUC778pA2ftsQLv4REDvNX1AvAC9QPtfjEC8CTdA9s03QLwRsED4RhhAvBoqQPeVJUC8IqNA+oA+QLwrHUD6WK9AvDOWQPnXGkC8PA9A+oN9QLxEiUD3sqtAvE0CQPYaSEC8VXxA8kywQLxd9UDVux9AvGZvQKOUEkC8buhAOr0EQLx3Yj+c3StAvH\/bPqp6JkC8iFU9suq1QLyQzrxF6+pAvJlIO6WB4EC8ocE69Z+Z"
+    },
+    "CDD":{
+        "center_dac":null,
+        "center_signal":null,
+        "high_dac":null,
+        "high_signal":null,
+        "low_dac":null,
+        "low_signal":null,
+        "points":"QLur\/gAAAABAu7R4AAAAAEC7vPE5H0szQLvFazmfSzNAu83kAAAAAEC71l4AAAAAQLve1zkfSzNAu+dROZ9LM0C778o6i2HNQLv4RDsVVoFAvAC9O4thz0C8CTc74AHGQLwRsDvHHgVAvBoqPBfTskC8IqM7wiOrQLwrHTwaUN9AvDOWPBzODEC8PA88HM4MQLxEiTv45YdAvE0CPCbCwEC8VXw75PwgQLxd9TwLYdFAvGZvPCHIZkC8bug8AW0eQLx3YjupP+pAvH\/bO4thz0C8iFU6Rx4AQLyQzjnu8M1AvJlIOR9LM0C8ocE57vDN"
+    },
+    "H1":{
+        "center_dac":5.8799257352,
+        "center_signal":183.0096113674,
+        "high_dac":5.8876812463,
+        "high_signal":135.3514349503,
+        "low_dac":5.8721702242,
+        "low_signal":134.4777681647,
+        "points":"QLur\/j3CRAlAu7R4PnJXnEC7vPE\/OJTLQLvFa0BgwUxAu83kQUbyMUC71l5CFi\/pQLve10KuDupAu+dRQvvtwEC778pDLEkBQLv4REM1MnZAvAC9QzbIZUC8CTdDNs0DQLwRsEM2wZlAvBoqQzbGYEC8IqNDNreZQLwrHUM28mRAvDOWQzbT9kC8PA9DNp\/fQLxEiUM2ShRAvE0CQzWHHkC8VXxDMqwGQLxd9UMovrFAvGZvQw49AkC8buhCvmHZQLx3YkI5Gi1AvH\/bQXdjrUC8iFVATbGHQLyQzj47GUJAvJlIPTZbrUC8ocG8vL5b"
+    },
+    "fmt":">ff",
+    "reference_detector":"H1",
+    "reference_isotope":"Ar40"
+}
